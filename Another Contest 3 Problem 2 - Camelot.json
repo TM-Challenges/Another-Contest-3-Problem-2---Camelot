@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Another Contest 3 Problem 2 - Camelot",
+      "message": {
+        "embeds": [
+          {
+            "title": "Another Contest 3 Problem 2 - Camelot",
+            "description": "In the game of chess, a king can move horizontally, vertically, or diagonally by one unit. More specifically, if a king is at (x,y), their x-coordinate can change by at most one and their y-coordinate can change by at most one in a single move.\n\nThere are N kings on an infinite chessboard where each square can fit an infinite number of kings, and they wish to meet up at a single location. In one second, exactly one king can move by one unit - all other kings must stay still. Compute the minimum amount of time needed for all the kings to meet up.",
+            "color": 65449,
+            "fields": [
+              {
+                "name": "Input Specification",
+                "value": "The first line contains a single positive integer, N.\n\nEach of the next N lines contains two space-separated integers, xi and yi, indicating that a king is at (xi,yi)."
+              },
+              {
+                "name": "Output Specification",
+                "value": "Output the minimum time in seconds needed for all the kings to convene."
+              },
+              {
+                "name": "Sample Input",
+                "value": "4\n1 1\n1 3\n1 2\n1 10",
+                "inline": true
+              },
+              {
+                "name": "Sample Output",
+                "value": "10",
+                "inline": true
+              },
+              {
+                "name": "__How to Submit__",
+                "value": "There are two steps to submit your code for this challenge (Name: **Another Contest 3 Problem 2 - Camelot**):\n1. Go to <#743121731480191088> and create a ticket by reacting to the :envelope_with_arrow:! Once you have reacted to the ticket bot, your ticket will be created on top of all the channels.\n2. Type your name, your PayPal email, and the code (notepad file if possible).\n\nThis challenges ends in 1 hour, starting from when this post occurs. _"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Developer Challenges",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/743635440447520878/767558419321192508/a_5abff6ac9d7c26f562030a50c1f82a3f.gif"
+            },
+            "timestamp": "2020-11-12T03:04:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
